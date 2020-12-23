@@ -212,7 +212,7 @@ chat_messagePanelCursor: #54A1DB
 chat_messagePanelHint: #A4ACB3
 chat_messagePanelIcons: #8E959B
 chat_messagePanelPressedSend: #FFFFFF
-chat_messagePanelSend: #005E55
+chat_messagePanelSend: #128C7E
 chat_messagePanelShadow: #000000
 chat_messagePanelText: #000000
 chat_messagePanelVideoFrame: #4BADF7
@@ -292,8 +292,8 @@ chat_outVenueNameText: #005E55
 chat_outViaBotNameText: #005E55
 chat_outViews: #128C7E
 chat_outViewsSelected: #005E55
-chat_outVoiceSeekbar: #00CEAD
-chat_outVoiceSeekbarFill: #005E55
+chat_outVoiceSeekbar: #A7BC96
+chat_outVoiceSeekbarFill: #31A2E3
 chat_outVoiceSeekbarSelected: #009D8E
 chat_previewDurationText: #FFFFFF
 chat_previewGameText: #FFFFFF
@@ -341,7 +341,7 @@ chat_topPanelTitle: #005E55
 chat_unreadMessagesStartArrowIcon: #A2B5C7
 chat_unreadMessagesStartBackground: #FFFFFF
 chat_unreadMessagesStartText: #128C7E
-chats_actionBackground: #005E55
+chats_actionBackground: #25D366
 chats_actionIcon: #FFFFFF
 chats_actionMessage: #8F8F8F
 chats_actionPressedBackground: #005E55B9
