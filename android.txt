@@ -383,13 +383,13 @@ chats_pinnedIcon: #A8A8A8
 chats_pinnedOverlay: #00000008
 chats_secretIcon: #41CF6FDC
 chats_secretName: #212121
-chats_sentCheck: #31A2E3
+chats_sentCheck: #A1AAB3
 chats_sentClock: #A7BC96
 chats_sentError: #D55252
 chats_sentErrorIcon: #FFFFFF
-chats_sentReadCheck: #46AA36
+chats_sentReadCheck: #31A2E3
 chats_tabletSelectedOverlay: #0000000F
-chats_unreadCounter: #42CF6F
+chats_unreadCounter: #A1AAB3
 chats_unreadCounterMuted: #C6C9CC
 chats_unreadCounterText: #FFFFFF
 chats_verifiedBackground: #40CF6F
