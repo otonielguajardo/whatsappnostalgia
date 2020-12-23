@@ -212,7 +212,7 @@ chat_messagePanelCursor: #54A1DB
 chat_messagePanelHint: #A4ACB3
 chat_messagePanelIcons: #8E959B
 chat_messagePanelPressedSend: #FFFFFF
-chat_messagePanelSend: #005E55
+chat_messagePanelSend: #128C7E
 chat_messagePanelShadow: #000000
 chat_messagePanelText: #000000
 chat_messagePanelVideoFrame: #4BADF7
