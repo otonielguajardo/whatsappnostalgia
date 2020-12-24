@@ -1,0 +1,600 @@
+name: Ritsa
+shortname: ritsa
+avatar_backgroundViolet: #37799C //purple
+dialogRadioBackground: #665D42 //radio unchecked in dialog box
+chat_replyPanelClose: #665D42 //close icon
+checkboxCheck: #FAF4B2 //tick in checkbox
+chat_recordedVoiceProgressInner: #FAF4B2 //played part of just recorded voice waveform
+passport_authorizeText: #FAF4B2 //as usual text on dark background
+chat_emojiPanelTrendingDescription: #8096A5 //like number of stickers in stickerpack
+chat_inFileBackground: #C1D4DF //as other content place in input message
+player_actionBarSelector: #346482 //player menu controls (arrow back, ...) on press circle
+chat_messagePanelVoicePressed: #FAF4B2 //mic icon whlie holding record button
+chats_nameMessage_threeLines: #4B5E69 //msg from in 3-lines dialogs
+contextProgressOuter3: #FAF4B2 //light progress
+chat_secretTimerText: #DFE6EB //timer icon on avatar in secret chamber
+dialogTextBlue2: #14304C //dialog box caption
+actionBarActionModeDefaultSelector: #D87B1E //pressed circle in common actions top panel
+chat_inFileNameText: #665D42 //input message filename
+chat_stickerReplyNameText: #DFE6EB //sticker reply to
+chat_inLoader: #14304C //input msg audio control
+windowBackgroundGray: #D1DEE6 //like version info in settings
+dialogCheckboxSquareDisabled: #BBB299 //disabled checkbox
+windowBackgroundWhiteGreenText2: #D8971F //like begin secret chat
+featuredStickers_buttonProgress: #9BB5C4 //small progress bar adding stickerpack on-button
+chat_attachEmptyImage: #4B5E69 //image not loaded yet icon
+chats_archiveIcon: #FAF4B2 //archive icon on swap dialog left
+groupcreate_spanDelete: #FAF4B2 //icon delete found contact in group create
+chat_inBubble: #DFE6EBDA //inbox message background
+chat_outLoaderSelected: #D87B1E //out audio msg control circle selected
+chat_emojiPanelIcon: #665D42 //emoji group icon
+chat_secretTimeText: #FAF4B2 //secret chamber time text
+chat_inContactBackground: #14304C //input msg contact circle
+chat_mediaSentCheck: #FAF4B2 //send-read tick(s)
+contacts_inviteText: #FAF4B2 //chhose people to invite text
+chat_recordTime: #514C2A //record time
+chat_selectedBackground: #23231780 //selected msg background
+dialog_inlineProgress: #0F4A6F //progress rotating circle
+windowBackgroundWhiteRedText6: #D94646 //attention text
+fastScrollText: #FAF4B2 //scrolling conracts first letter
+chat_messagePanelCursor: #514C2A //input message cursor
+player_actionBarTitle: #9BB5C4 //player top panel song
+chat_adminText: #8096A5 //admin sign
+dialogFloatingButton: #0F4A6F //send button in dialog box
+chats_sentError: #D94646 //dialogs sent error background
+chat_attachPermissionImage: #4B5E69 //attach permission image
+actionBarActionModeDefault: #FAF4B2 //DFE6EB //common actions top panel
+chat_serviceLink: #C6D4DC //service msg link
+dialogBackground: #DFE6EB //additional background like in video player
+avatar_backgroundGreen: #37799C //green
+dialogCheckboxSquareBackground: #0F4A6F //checkbox
+chat_inPreviewInstantText: #0F4A6F //like preview theme text with t.me link
+windowBackgroundWhiteGrayText5: #4B5E69 //some gray text
+musicPicker_checkboxCheck: #FAF4B2 //checkbox choose music
+changephoneinfo_image: #7C99B2 //change phone icon from
+picker_badgeText: #FAF4B2 //picked number
+player_progressBackground: #9BB5C4 //not played part in player progress
+dialogTopBackground: #0F4A6F //dialog caption background
+chat_inVoiceSeekbar: #8096A5 //input voice msg waveform
+chat_mediaSentClock: #FAF4B2 //media sent time
+chat_outFileNameText: #665D42 //output msg filename
+chat_stickerReplyLine: #FAF4B2 //sticker reply line
+chat_outFileIcon: #FAF4B2 //out file icon
+chat_messagePanelCancelInlineBot: #665D42 //close inline bot icon
+chat_topPanelLine: #14304C //vertical quotation line in fixed msg
+avatar_nameInMessageRed: #37799C //red msg
+dialogTextHint: #9BB5C4 //like leave comment text on share stickerpack page
+windowBackgroundWhiteRedText: #D94646 //attention text
+checkboxSquareUnchecked: #665D42 //unchecked checkbox
+chat_outLoaderPhotoIcon: #FAF4B2 //out photo icon
+musicPicker_buttonIcon: #FAF4B2 //music button circle icon on-off
+dialogTextGray4: #4B5E69 //some gray text
+chat_outBubbleShadow: #232317B4 //output mgs shadow
+actionBarDefaultSearch: #9BB5C4 //top panel text to search
+chat_inContactIcon: #DFE6EB //input msg contact icon
+actionBarDefaultSearchPlaceholder: #9BB5C491 //search hint subtle mask
+chat_inLoaderPhotoSelected: #14304C //in loader photo selected
+chats_menuItemCheck: #0F4A6F //checkbox circle
+actionBarActionModeDefaultTop: #165177 //part above top common actions panel
+featuredStickers_delButton: #D94646 //delete button
+chat_inContactPhoneSelectedText: #8096A5 //input msg contact phone N selected
+avatar_nameInMessageGreen: #37799C //green msg
+chat_outAudioSeekbarFill: #D87B1E //out audio msg played waveform
+player_placeholder: #5E5E4D //player media icon
+actionBarTabUnactiveText: #9BB5C4 //tab non-active text
+chat_outAudioCacheSeekbar: #E2B968 //out audio msg cache progress
+chat_inReplyNameText: #14304C //input msg answer name
+chats_nameIcon: #DFE6EB //dialogs name icon
+avatar_backgroundCyan: #37799C //cyan
+chat_attachFileBackground: #453500 //send file icon circle in attach menu
+graySection: #EBF0F4 //separator bold line (like section title in search box)
+windowBackgroundWhiteBlueIcon: #665D42 //like add chat user in channel box
+chat_inMediaIcon: #DFE6EB //input msg media icon
+chat_inLocationBackground: #C1D4DF //loading location square in received msg
+sharedMedia_photoPlaceholder: #C1D4DF //square to load photo into it
+contextProgressInner4: #FAF4B2 //some inner progress
+chat_attachMediaBanText: #FAF4B2 //media ban text
+picker_disabledButton: #C1D4DF //picker disabled button
+chat_replyPanelMessage: #665D42 //replying panel quotation
+chat_outPreviewInstantText: #D87B1E //like preview theme text with t.me link
+chat_emojiPanelTrendingTitle: #514C2A //stickerpack name
+chat_inPreviewInstantSelectedText: #0F4A6F //as non-selected
+chat_stickerNameText: #FAF4B2 //sticker name
+chat_inFileInfoSelectedText: #8096A5 //in message file info selected
+chats_unreadCounter: #0F4A6F //dialogs unread count circle
+sharedMedia_actionMode: #14304C //common materials caption background when something selected
+windowBackgroundWhiteGrayText: #8096A5 //like last online time
+actionBarDefaultSubmenuBackground: #DFE6EB //actions (...) button menu
+windowBackgroundWhiteGrayText3: #8096A5 //like contact info text in search box
+checkbox: #0F4A6F //selected msg checkbox
+chat_outSentCheckSelected: #665D42 //msg sent tick selected
+chat_outTimeSelectedText: #887F63 //out msg time text selected
+chat_outFileSelectedIcon: #FAF4B2 //out file icon selected
+contextProgressInner1: #FAF4B2 //some progress inner
+chat_messagePanelSend: #0F4A6F //send message plane icon
+chats_archiveText: #FAF4B2 //archive text on swipe dialog left
+dialogScrollGlow: #97B8CA //pull-scrolling stop-at-the-end mask
+dialogIcon: #665D42 //icons in dialog box
+windowBackgroundGrayShadow: #232317B4 //shadow
+windowBackgroundWhiteBlueHeader: #453500 //like category caption in contact box
+chats_mentionIcon: #DFE6EB //dialogs you`ve been qouted icon (in unread place)
+chat_attachMediaBanBackground: #514C2A //media ban background
+dialogTextRed2: #D94646 //attention text in dialog boxes
+chat_mediaLoaderPhotoSelected: #232317C2 //gif loader circle photo pressed
+returnToCallBackground: #232317B4 //return to call
+files_iconText: #DFE6EB //files extension on icon
+chat_messagePanelBackground: #DFE6EB //message input field
+switchTrackBlueSelectorChecked: #23231720 //switch selector
+actionBarDefaultSubtitle: #C6D4DC //top panel status (like online)
+login_progressOuter: #0F4A6F //login progress done
+chat_serviceText: #FAF4B2 //like date in chat or progress loading messages
+chat_searchPanelIcons: #514C2A //search icons like calendar and contact
+dialogRadioBackgroundChecked: #0F4A6F //radio checked in dialog box
+switchTrackBlueThumb: #C4B589 //changing switch off
+dialog_liveLocationProgress: #0F4A6F //live location timer in opened map dialog
+dialogCameraIcon: #FAF4B2 //camera icon
+dialogLinkSelection: #23231730 //link selection
+dialogRoundCheckBoxCheck: #FAF4B2 //dialog checkbox tick
+windowBackgroundWhiteInputField: #8096A5 //non-active input field underline
+chats_verifiedBackground: #14304C //dialogs verified icon
+dialogBadgeText: #FAF4B2 //badge text
+chat_attachPhotoBackground: #C1D4DF //selected photo frame
+chat_outContactPhoneText: #AA9B6D //out msg contact phone N selected
+chat_inVenueInfoText: #665D42 //street name in intput location message
+chat_outAudioDurationText: #AA9B6D //output audio msg time
+chat_emojiPanelBadgeText: #FAF4B2 //number of new (not viewed yet) stickerpacks
+chats_actionBackground: #0F4A6F //circle write msg
+chat_shareBackgroundSelected: #14304C //reply circle pressed
+chats_date: #8096A5 //dialogs time of msg
+stickers_menu: #9BB5C4 //3-dots (...) menu for stickers
+chat_outAudioSeekbarSelected: #BE9947 //out audio msg selected waveform
+chat_emojiPanelStickerSetNameHighlight: #D8971F //matched part search stickers selection
+avatar_nameInMessagePink: #37799C //pink msg
+chats_actionUnreadPressedBackground: #14304C //action pressed backgrouns
+chat_inSiteNameText: #0F4A6F //human text name of link out msg
+chat_mediaViews: #FAF4B2 //media post views counter
+chat_attachContactBackground: #453500 //send contact icon circle in attach menu
+chat_inFileProgressSelected: #DFE6EB //seems to be unused
+chat_topPanelMessage: #514C2A //fixed msg text
+chats_actionUnreadBackground: #0F4A6F //action background
+chat_emojiPanelStickerSetNameIcon: #514C2A //edit stickerpack icon (if exists)
+chat_outVenueInfoSelectedText: #665D42 //street name in output location selected message
+location_sendLocationBackground: #453500 //send location circle
+dialogProgressCircle: #9BB5C4 //progress circle
+dialogTextGray2: #4B5E69 //like percentage text in progress dialog
+actionBarTabLine: #FAF4B2 //active tab underline
+chat_inReplyMediaMessageSelectedText: #718796 //input msg answer media selected
+chat_inInstant: #14304C //chat_in phone icon
+chat_outAudioDurationSelectedText: #AA9B6D //output audio selected msg time
+chat_mediaLoaderPhotoIconSelected: #F2F0E8 //media loader photo icon selected
+chats_actionPressedBackground: #14304C //strange color transition, best fading to darker
+chat_outViewsSelected: #887F63 //selected output post views number
+profile_verifiedCheck: #14304C //verified tick in contact box
+dialogSearchHint: #9BB5C4 //search text like in find contacts to share stickerpack
+sharedMedia_startStopLoadIcon: #0F4A6F //common materials download-pause icon
+chat_inAudioPerfomerSelectedText: #718796 //input selected msg audio tag info
+actionBarBrowser: #0F4A6F //action bar browser
+windowBackgroundWhiteRedText3: #D94646 //attention text
+chat_emojiPanelBackground: #DFE6EB //stickers pane
+chat_outContactPhoneSelectedText: #887F63 //out msg contact phone N selected
+actionBarDefaultTitle: #FAF4B2 //top caption bar text
+chat_inPreviewLine: #0F4A6F //in msg reply bar
+dialog_inlineProgressBackground: #DFE6EBEB //progress icon mini-panel
+dialogRoundCheckBox: #0F4A6F //dialog checkbox
+switchTrackBlueChecked: #0F4A6F //switch on
+dialogTextBlue: #514C2A //like file sizes in clear cache dialog
+chat_inInstantSelected: #14304C //chat_in phone icon selected msg
+contacts_inviteBackground: #0F4A6F //choose people to invite background
+chat_recordedVoiceProgress: #3F7193 //just recorded voice waveform
+chats_message_threeLines: #8096A5 //Second part of text in 3-lines
+windowBackgroundWhiteGrayText4: #8096A5 //like description to invitation link
+files_folderIconBackground: #514C2A //folder circle
+windowBackgroundWhiteBlueButton: #453500 //like add chat user in channel box
+profile_verifiedBackground: #DFE6EB //verified star in contact box
+dialogTextLink: #D87B1E //link in dialog box
+avatar_backgroundSaved: #0F4A6F //favorite cicrle
+chat_fieldOverlayText: #14304C //like on-off sound bottom bar
+avatar_nameInMessageViolet: #37799C //violet msg
+chat_inForwardedNameText: #14304C //input msg forwarded from
+chat_inSentClock: #8096A5 //in msg not send clock icon (like channel msg)
+chat_inAudioSeekbarSelected: #8096A5 //input audio msg selected waveform
+key_chat_messagePanelVoiceLockBackground: #FAF4B2 //panel with lock icon while holding record button
+chats_nameMessage: #4B5E69 //dialogs from msg
+contextProgressOuter2: #D87B1E //progress in top panel like code check
+chats_menuBackground: #DFE6EB //main menu background
+windowBackgroundWhiteGrayText8: #8096A5 //like checking existing group name
+chats_sentErrorIcon: #FAF4B2 //send error icon
+chat_messagePanelHint: #C2CBD2 //default text (hint) in message input panel
+chat_shareBackground: #044062C0 //reply circle
+contextProgressOuter1: #D87B1E //some progress outer
+chat_outAudioSelectedProgress: #F9E7AF //as non-selected
+dialogCheckboxSquareUnchecked: #665D42 //unchecked checkbox in dialog box
+chat_inSentClockSelected: #8096A5 //in selected msg not send clock icon (like channel msg)
+chat_inBubbleShadow: #232317B4 //intput mgs shadow
+chats_nameArchived: #8096A5 //archive text
+chat_inFileInfoText: #8096A5 //in message file info
+windowBackgroundWhiteGrayIcon: #665D42 //like item icon in contact box
+chat_sentError: #D94646 //out msg sent error background
+dialogSearchText: #9BB5C4 //like searching people on share stickerpack page
+passport_authorizeBackgroundSelected: #14304C //like send or import contact pressed button
+avatar_backgroundInProfileBlue: #37799C //default avatar circle before applying schemes
+chat_outInstantSelected: #D87B1E //chat_out phone icon selected msg
+player_progress: #0F4A6F //played part and current position dot in player
+chat_gifSaveHintBackground: #232317CC //save gif hint
+chat_inUpCall: #D94646 //in call upcoming
+chat_outLoaderPhotoIconSelected: #FAF4B2 //out loader photo icon selected
+chats_onlineCircle: #0F4A6F //contact online mark (dot)
+chat_outBroadcast: #D87B1E //reserved
+windowBackgroundWhiteRedText5: #D94646 //like leave channel text
+chat_inLoaderPhotoIcon: #DFE6EB //in loader photo icon
+chat_mediaBroadcast: #FAF4B2 //media broadcast
+chats_menuPhone: #FAF4B2 //main menu phone number text
+dialogShadowLine: #665D4280 //as default separate line
+chats_draft: #C27700 //draft label
+chat_emojiPanelStickerPackSelectorLine: #14304C //select stickerpack underline
+chats_unreadCounterText: #DFE6EB //dialogs unread number
+chat_inLocationIcon: #0F4A6F //position icon in map input message
+chat_attachPollBackground: #453500 //send poll icon circle in attach menu
+chat_lockIcon: #D8971F //secret chat icon in top panel
+chat_outPreviewLine: #C27700 //out msg reply bar
+avatar_actionBarIconBlue: #FFF9D2 //avatar icon
+chat_inMenu: #8096A5 //input msg menu
+chat_emojiPanelMasksIcon: #514C2A //reserved
+chats_sentClock: #37629C //dialogs not sent clock
+dialogTextBlue4: #0F4A6F //like actions text in video player
+chat_recordedVoiceBackground: #0F4A6F //recorded voice message round
+chat_unreadMessagesStartText: #0F4A6F //line unread msg text
+windowBackgroundWhiteGrayText6: #4B5E69 //like inpute code password text
+windowBackgroundWhiteBlueText5: #0F4A6F //some accented text
+inappPlayerClose: #665D42 //in-dialog player top panel close icon
+chats_menuName: #FAF4B2 //main menu user name text
+chat_searchPanelText: #0F4A6F //found info counters
+chat_inAudioProgress: #DFE6EB //as icons
+windowBackgroundWhiteHintText: #C2CBD2 //text hint in empty input fields
+chat_outInstant: #D87B1E //chat_out phone icon
+chat_emojiPanelNewTrending: #0F4A6F //new recommended stickerpack little on-icon circle
+chat_outReplyMessageText: #514C2A //as msg text
+listSelectorSDK21: #3A5E6833 //list selection overlay
+chat_attachPollIcon: #FAF4B2 //send poll icon in attach menu
+chat_inLoaderPhotoIconSelected: #DFE6EB //in loader photo icon selected
+chat_inContactNameText: #14304C //input msg contact name
+windowBackgroundWhiteBlueText4: #D8971F //like selection matched part in search
+chat_emojiPanelStickerSetName: #514C2A //stickerpack name
+actionBarDefaultIcon: #FAF4B2 //top caption bar controls (... and <)
+chat_inlineResultIcon: #514C2A //inline result icon
+chat_outContactNameText: #D87B1E //output msg contact name
+chats_menuPhoneCats: #C6D4DC //seems to be unused
+profile_title: #FAF4B2 //contact name in contact box
+featuredStickers_addedIcon: #514C2A //current mark tick like proxy type select
+chat_outMediaIcon: #F9E7AF //output msg media icon
+chat_botKeyboardButtonBackgroundPressed: #14304C //bot button pressed
+profile_creatorIcon: #0F4A6F //channel creator text
+profile_status: #C6D4DC //like online status near avatar in contact box
+switchTrackBlueThumbChecked: #A0C7DF //changing switch on
+chats_nameMessageArchived_threeLines: #8096A5 //msg from in 3-lines dialog
+chats_archiveBackground: #8096A5 //archive background on swipe left
+windowBackgroundWhiteValueText: #665D42 //like items count in profile box
+chat_previewGameText: #FAF4B2 //game text
+actionBarActionModeDefaultIcon: #514C2A //common actions panel icons and text
+chat_emojiBottomPanelIcon: #665D42 //bottom emoji icons
+emptyListPlaceholder: #4B5E69 //nothing found in search
+chat_inFileProgress: #DFE6EB //seems to be unused
+chat_attachContactIcon: #FAF4B2 //send conctact icon in attach menu
+passport_authorizeBackground: #0F4A6F //like send or import contact button
+location_sendLiveLocationBackground: #453500 //send live location circle
+chats_muteIcon: #8096A5 //mute dialog icon
+windowBackgroundWhiteBlackText: #4B5E69 //like contact name in new message box
+groupcreate_spanText: #0F4A6F //found contact in add prople to group text
+chat_attachAudioBackground: #453500 //send music icon circle in attach menu
+chat_topPanelClose: #665D42 //fixed msg close panel
+chat_serviceIcon: #FAF4B2 //service msg icon like reply arrow
+player_buttonActive: #D8971F //pressed player button
+chat_outSentCheck: #665D42 //msg sent tick
+chat_recordedVoiceDot: #D94646 //record control dot or square
+chat_outReplyLine: #C27700 //output msg answer mark
+chat_messagePanelText: #665D42 //message input text
+inappPlayerPlayPause: #0F4A6F //in-dialog player top panel controls
+calls_callReceivedRedIcon: #D94646 //received call
+dialogButtonSelector: #23231710 //dialog button overlay
+chat_messagePanelVoiceDuration: #FAF4B2 //recorded voice duration text before send
+chat_outVenueInfoText: #665D42 //street name in output location message
+sharedMedia_linkPlaceholderText: #FAF4B2 //common materials link icon text
+chat_outTimeText: #AA9B6D //out msg time text
+switchTrack: #665D42 //switch off
+chat_messagePanelPressedSend: #FFFFFF //currently useless
+login_progressInner: #C6D4DC //login progress
+avatar_backgroundBlue: #37799C //blue
+dialogTextGray: #8096A5 //like source info in video player
+chat_previewDurationText: #FAF4B2 //duration text
+key_player_progressCachedBackground: #527F99 //little darker than not played background
+chat_secretTimerBackground: #0F4A6F60 //timer icon on secret avatar background
+chats_menuCloud: #FAF4B2 //seems to be unused
+windowBackgroundWhiteBlueText2: #0F4A6F //like join group or channel text in channel info
+actionBarDefaultArchivedIcon: #FAF4B2 //archive top panel icons
+chat_emojiPanelIconSelected: #0F4A6F //selected emoji icon
+radioBackgroundChecked: #0F4A6F //radio checked
+chats_menuItemIcon: #665D42 //main menu icons
+featuredStickers_addButton: #0F4A6F //popular stickerpack add button
+dialogFloatingButtonPressed: #14304C //pressed send button in dialog box
+chat_inTimeText: #8096A5 //in message time text
+avatar_backgroundGroupCreateSpanBlue: #FAF4B2 //found contact to remove grom creating group
+checkboxSquareDisabled: #BBB299 //disabled checkbox
+chat_emojiSearchBackground: #F6F5FA //search emoji field
+chat_emojiPanelBackspace: #665D42 //delete and search emoji icons
+avatar_backgroundArchivedHidden: #4B5E69 //archive circle non-fixed
+chat_outPreviewInstantSelectedText: #D87B1E //as non-selected
+chat_emojiPanelBadgeBackground: #0F4A6F //recommend stickerpack count circle
+changephoneinfo_image2: #0F4A6F //change phone image to
+chat_outFileInfoSelectedText: #AA9B6D //out msg file info selected
+player_background: #DFE6EB //as main background
+key_graySectionText: #514C2A //caption in sepatate sections bold line
+dialogSearchBackground: #DFE6EB //as main background
+chats_pinnedIcon: #8096A5 //dialog pin icon
+chat_muteIcon: #8096A5 //mute icon in top panel
+chat_mediaMenu: #FAF4B2 //0F4A6F //3-dots (...) media menu
+picker_badge: #0F4A6F //music picker counter background
+chat_addContact: #14304C //like message aren`t group linked to place
+chat_outMenu: #AA9B6D //output msg menu
+avatar_backgroundRed: #37799C //red
+fastScrollInactive: #8096A5 //fast scroll bar
+chat_emojiPanelShadowLine: #665D4280 //top and bottom parts in emoji panel separate
+avatar_nameInMessageBlue: #37799C //blue msg
+chat_messagePanelVoiceDelete: #665D42 //delete recorded voice trash icon before send
+chat_botKeyboardButtonBackground: #0F4A6F //bot key background
+actionBarDefaultArchivedTitle: #FAF4B2 //archive top panel text
+chat_stickerReplyMessageText: #FAF4B2 //sticker reply text
+dialogSearchIcon: #9BB5C4 //magnify icon in search field
+chat_outVoiceSeekbarSelected: #BE9947 //output voice msg selected waveform
+chat_outForwardedNameText: #C27700 //output msg forwarded from
+stickers_menuSelector: #3A5E6833 //stickers menu selector
+chat_outFileProgressSelected: #FAF4B2 //seems to be unused
+player_button: #0F4A6F//player controls
+dialogBadgeBackground: #0F4A6F //badge background
+chat_inDownCall: #53AA33 //in down call
+fastScrollActive: #0F4A6F //scrolling contacts bar
+chat_mediaLoaderPhoto: #23231766 //gif loader circle photo
+chat_goDownButtonCounter: #BDD3E2 //go down unread number text
+chats_tabletSelectedOverlay: #BFCCD7 //tablet left pane selected dialog background
+chats_menuItemText: #4B5E69 //main menu text
+chat_outViews: #887F63 //chat out views
+divider: #98ADBB //separation thin underline
+groupcreate_sectionText: #4B5E69 //create group text
+avatar_actionBarSelectorBlue: #37799C //picked
+chat_inLoaderSelected: #14304C //input audio msg control circle selected
+chats_actionMessage: #8096A5 //text last action
+groupcreate_spanBackground: #C6D4DC //found contact round in creating group
+chat_outLoaderPhoto: #D87B1E //out loader photo
+chat_messageTextIn: #514C2A //in msg text
+dialogInputField: #4B5E69 //dialog input field underline
+inappPlayerBackground: #FFFAC8DA //in-dialog player top panel
+dialogGrayLine: #8096A5 //dialog gray line
+player_actionBar: #0F4A6F //player top panel
+chat_attachGalleryIcon: #FAF4B2 //send gallery icon in attach menu
+chat_messagePanelShadow: #000000 //black shadows is good
+chat_outFileInfoText: #AA9B6D //out msg file info
+player_time: #9BB5C4 //strange but linked to artist
+chat_unreadMessagesStartArrowIcon: #0F4A6F //scroll trhu unread msg arrow
+chat_outAudioProgress: #F9E7AF //as icons
+groupcreate_sectionShadow: #000000 //black shadows is good
+chats_verifiedCheck: #F9E7AF //dialog verified tick
+chat_inMenuSelected: #8096A5 //input msg menu selected
+chat_outAudioTitleText: #D87B1E //output audio msg name
+chat_messageTextOut: #514C2A //out msg text
+inappPlayerPerformer: #514C2A //in-dialog player top panel artist
+chats_actionIcon: #FAF4B2 //dialogs action circle icon
+profile_actionBackground: #FAF4B2 //go to chat round button in contact box
+chat_outSentClockSelected: #928B4D //out msg not sent clock selected
+dialogCheckboxSquareCheck: #FAF4B2 //dialog checkbox tick
+musicPicker_checkbox: #0F4A6F //music select checkbox
+location_sendLiveLocationIcon: #FAF4B2 //send live location icon
+chat_messagePanelVoiceShadow: #0F4A6F60 //voice detect shadow button animation
+chat_messagePanelIcons: #665D42 //input message panel icons like mic and attach
+actionBarWhiteSelector: #23231730 //action bar selector
+key_sheet_other: #9BB5C4 //like 3-dots (...) menu in stickerpack view
+contextProgressInner2: #FAF4B2 //progress scale in top panel like code check
+dialogLineProgress: #0F4A6F //passed part in progress line
+dialogTextGray3: #8096A5 //like group size in join confirmation
+dialogFloatingIcon: #FAF4B2 //send icon button in dialog box
+chat_messagePanelVideoFrame: #0F4A6F //just recorded video trim box
+chat_mediaProgress: #FAF4B2 //media progress
+chat_outLocationIcon: #D8971F //position icon in map output message
+chat_sentErrorIcon: #FAF4B2 //send error icon
+chat_inAudioPerfomerText: #8096A5 //input selected msg audio tag info
+chat_messageLinkIn: #0F4A6F //in msg link text
+chats_attachMessage: #8096A5 //dialogs attached text
+windowBackgroundWhiteBlueText6: #0F4A6F //some accented text
+sessions_devicesImage: #0F4A6F //side authorizations icon
+location_placeLocationBackground: #453500 //go to location circle
+key_sheet_scrollUp: #8096A5 //top horizontal scroll bar like in stickerpack view
+chats_secretIcon: #D8971F //dialog lock (secret chat) icon
+chat_attachFileIcon: #FAF4B2 //send file icon in attach menu
+chats_pinnedOverlay: #708E9F20 //fixed dialog background
+chat_outContactIcon: #F9E7AF //output msg contact icon
+chat_outAudioPerfomerText: #AA9B6D //output msg audio tag info
+featuredStickers_delButtonPressed: #D94646 //del presses button
+chat_attachCheckBoxCheck: #FAF4B2 //dialog checkbox tick
+chat_attachUnactiveTab: #8096A5 //attach image inactive tab
+actionBarDefaultSelector: #346482 //circle on press controls in top panel
+sharedMedia_linkPlaceholder: #37799C //common materials square background for link icon
+chat_emojiPanelEmptyText: #8096A5 //text nothing found in stickers search
+chat_inViews: #8096A5 //post views counter
+windowBackgroundWhiteBlueText3: #0F4A6F //like online status in search contacts
+windowBackgroundWhiteGrayText7: #4B5E69 //like change code password text
+chat_outUpCall: #53AA33 //out upcoming call
+chat_emojiSearchIcon: #C2CBD2 //default text in search emoji field
+chat_botKeyboardButtonText: #FAF4B2 //bot button text
+chats_secretName: #453500 //D8971F //secret dialog name
+chat_inReplyLine: #14304C //input msg answer mark
+avatar_backgroundArchived: #8096A5 //archive dialogs cirlce
+actionBarTabSelector: #346482 //like default selector
+returnToCallText: #FAF4B2 //return to call
+chat_attachCheckBoxBackground: #0F4A6F //checkbox attach
+windowBackgroundWhiteRedText4: #D94646 //attention text
+contextProgressOuter4: #D87B1E //some progress outer
+avatar_backgroundOrange: #37799C //orange
+chat_inReplyMessageText: #514C2A //as msg text
+windowBackgroundWhiteGrayLine: #8096A5 //gray line
+chat_inFileIcon: #DFE6EB //seems to be unused
+chat_inAudioTitleText: #14304C //input audio msg name
+chat_inAudioDurationSelectedText: #8096A5 //input audio msg selected time
+undo_infoColor: #DFE6EB //undo about icon
+actionBarDefault: #0F4A6F //top caption bar
+dialogInputFieldActivated: #0F4A6F //active input field underline
+chat_outSentClock: #928B4D //out msg not sent clock
+checkboxSquareCheck: #FAF4B2 //checkbox tick
+chat_goDownButton: #BDD3E2 //down button circle
+chats_nameMessageArchived: #8096A5 //archived from text
+profile_actionPressedBackground: #D8971F //go to chat round pressed button in contact box
+chat_inAudioSelectedProgress: #DFE6EB //as non-selected
+switchTrackBlueSelector: #23231720 //switch track selector
+chat_attachLocationBackground: #453500 //send location icon circle in attach menu
+windowBackgroundWhiteLinkText: #D8971F //like links in channel description
+windowBackgroundWhiteLinkSelection: #23231735 //link selection
+chat_botButtonText: #FAF4B2 //bot button text
+chat_attachAudioIcon: #FAF4B2 //send music icon in attach menu
+chat_outSiteNameText: #665D42 //human text name of link out msg
+switch2TrackChecked: #0F4A6F //switch on
+chat_inBubbleSelected: #B5CFF1DE //inbox selected message background
+chat_recordedVoicePlayPause: #FAF4B2 //playback control in just recorded voice message
+chat_outFileProgress: #FAF4B2 //seems to be unused
+contextProgressInner3: #BBB299 //some inner progress
+progressCircle: #9BB5C4 //appears in search contacts after input letter
+chat_outBubbleSelected: #DBD493DA //outbox selected message background
+chats_unreadCounterMuted: #8096A5 //muted dialogs unread circle
+chats_menuTopBackgroundCats: #37799C //seems to be unused
+radioBackground: #665D42 //radio unchecked
+chat_outVoiceSeekbar: #E2B968 //output voice msg waveform
+chat_topPanelBackground: #DFE6EBEB //like fixed messages
+actionBarDefaultSearchArchivedPlaceholder: #9BB5C4 //search text invitation
+dialogTextBlack: #4B5E69 //text in dialog boxes
+chat_inVoiceSeekbarSelected: #8096A5 //input voice msg selected waveform
+player_actionBarItems: #9BB5C4 //player top panel controls
+files_folderIcon: #FAF4B2 //folder type icon
+checkboxDisabled: #BBB299 //disabled checkbox
+chat_inViewsSelected: #8096A5 //post views counter selected message
+actionBarDefaultSubmenuItemIcon: #665D42 //actions (...) button menu icons
+groupcreate_cursor: #514C2A //find and add people to group cursor
+key_chat_messagePanelVoiceLockShadow: #000000 //lock panel shadow while holding record button
+windowBackgroundCheckText: #FAF4B2 //caption text on deactivating page
+player_placeholderBackground: #232317E0 //player media background
+switchTrackChecked: #0F4A6F //switch on
+windowBackgroundWhiteGrayText2: #8096A5 //like info small sub-text in contact box
+chat_inFileSelectedIcon: #DFE6EB //seems to be unused
+chat_secretChatStatusText: #14304C //secret chat status text in bottom panel
+profile_actionIcon: #0F4A6F //go to chat icon in contact box
+windowBackgroundWhiteRedText2: #D94646 //attention text
+dialogTextBlue3: #0F4A6F //some accented text
+chat_attachPermissionText: #FAF4B2 //permission text
+chat_unreadMessagesStartBackground: #DFE6EBF0 //unread msg line
+chat_inVoiceSeekbarFill: #14304C //input voice msg control
+chat_attachPermissionMark: #D94646 //permission mark
+chat_mediaTimeText: #FAF4B2 //media duration
+dialogTextRed: #D94646 //attention text
+avatar_backgroundActionBarBlue: #0F4A6F //like contact info box top panel
+chat_inViaBotNameText: #14304C //sent via bot text
+chat_outSentCheckRead: #665D42 // out message double tick icon
+avatar_nameInMessageOrange: #37799C //orange msg
+actionBarDefaultArchivedSelector: #346482 //like default selector
+chat_status: #DFE6EB //status in top panel
+chat_outFileBackground: #FAF4B2 //like map background
+chat_inLoaderPhoto: #14304C //in loader photo
+chats_archivePinBackground: #0F4A6F //dialogs swipe to archive background
+chats_name: #14304C //dialogs chat name
+location_sendLocationIcon: #FAF4B2 //send location icon
+windowBackgroundWhite: #DFE6EB //main background (like dialogs list)
+chat_outBubble: #FFFAC8DA // outbox message background
+checkboxSquareBackground: #0F4A6F //checkbox
+chat_replyPanelLine: #665D4280 //replying panel bottom line
+chat_inReplyMediaMessageText: #718796 //input msg answer media
+calls_callReceivedGreenIcon: #53AA33 //received call
+chat_outReplyMediaMessageText: #887F63 //output msg answer media
+chat_outLoader: #D87B1E //out audio msg control
+chat_outReplyNameText: #D87B1E //output msg answer name
+chat_stickersHintPanel: #DFE6EBF0 //stickers suggest
+key_chat_messagePanelVoiceLock: #665D42 //lock icon while holding record button
+actionBarDefaultArchived: #0F4A6F //top panel of archive
+chat_inAudioSeekbar: #8096A5 //input audio msg waveform
+chat_inContactPhoneText: #8096A5 //input contact msg phone N
+chat_linkSelectBackground: #23231735 //link selection in messages
+windowBackgroundWhiteBlueText7: #4B5E69 //like send location text
+chats_sentReadCheck: #14304C //dialogs sent read 2 ticks
+chat_stickerViaBotNameText: #FAF4B2 //sticker via bot text
+chats_messageArchived: #8096A5 //archived dialogs msg
+chat_recordVoiceCancel: #514C2A //swipe left to cancel record text
+chat_textSelectBackground: #F7BE53E0 //selection search matched text
+undo_background: #232317E0 //undo background
+chat_outAudioSeekbar: #E2B968 //output audio msg waveform
+chat_attachActiveTab: #0F4A6F //attach image active tab and underline
+chat_adminSelectedText: #8096A5 //admin selected sign
+actionBarDefaultArchivedSearch: #9BB5C4 //text for search in archive
+chat_gifSaveHintText: #FAF4B2 //gif save hint
+chat_outVoiceSeekbarFill: #D87B1E //out voice msg played waveform
+musicPicker_buttonBackground: #0F4A6F //audio file button circle
+chat_messagePanelVoiceBackground: #0F4A6F //send voice message plane icon circle
+chat_goDownButtonShadow: #000000 //black shadow is good
+actionBarDefaultSubmenuItem: #4B5E69 //actions (...) button menu icons
+chat_inAudioCacheSeekbar: #8096A5 //input audio msg cache progress
+chats_sentCheck: #37629C //dialogs sent read 1 tick
+chat_replyPanelIcons: #0F4A6F //reply icon in reply panel
+switchTrackBlue: #665D42 //switch off
+chat_mediaLoaderPhotoIcon: #FAF4B2 //loader photo icon
+featuredStickers_buttonText: #FAF4B2 //add popular stickerpack button text
+dialogButton: #14304C //button text in dialog boxes
+chat_messageLinkOut: #D87B1E //out msg link
+windowBackgroundUnchecked: #8C8760 //caption background on deactivated page controls
+featuredStickers_addButtonPressed: #14304C //pressed add stickerpack button
+chat_botProgress: #FAF4B2 //bot progress
+actionBarTabActiveText: #FAF4B2 //active tab text
+dialogLineProgressBackground: #9BB5C4 //not reached part in progress line
+dialogRedIcon: #D94646 //atteniton icon in dialog boxes
+chat_mediaTimeBackground: #232317C0 //media time background
+chat_outFileBackgroundSelected: #FAF4B2 //like map background
+chats_actionUnreadIcon: #FAF4B2 //action unread icon
+groupcreate_hintText: #C2CBD2 //search people text in input field add to group
+chat_outContactBackground: #D87B1E //out conctact msg circle
+chat_inAudioDurationText: #8096A5 //input audio msg time
+avatar_text: #FFF9D2 //avatar text
+chat_goDownButtonIcon: #0F4A6F //go down arrow
+chats_menuCloudBackgroundCats: #37799C //seems to be unused
+chat_recordedVoicePlayPausePressed: #D8971F //pressed playback controls in just recorded voice message
+chat_topPanelTitle: #14304C //fixed msg title
+chat_outLoaderPhotoSelected: #D8971F //out loader photo selected
+player_actionBarSubtitle: #9BB5C4 //player top panel artist
+chat_inMediaIconSelected: #DFE6EB //input selected msg media icon
+chat_emojiPanelStickerPackSelector: #23231733 //seems to be unused
+chat_mediaInfoText: #FAF4B2 //media info text
+picker_enabledButton: #0F4A6F //enabled picker button
+windowBackgroundWhiteInputFieldActivated: #0F4A6F //active input field underline
+chat_replyPanelName: #0F4A6F //replying to name in panel
+chat_reportSpam: #D94646 //attention text
+chat_attachGalleryBackground: #453500 //send gallery icon circle in attach menu
+windowBackgroundChecked: #5C97B5 //caption background on activated page controls
+avatar_backgroundPink: #37799C //pink
+inappPlayerTitle: #514C2A //in-dialog player top panel song
+chat_outViaBotNameText: #D8971F //output via bot text
+featuredStickers_unread: #0F4A6F //seems to be unused
+chat_outAudioPerfomerSelectedText: #887F63 //output selected msg audio tag info
+location_liveLocationProgress: #0F4A6F //live location timer in opened map dialog
+player_actionBarTop: #07273C99 //up-app shadow in player mode
+chat_inFileBackgroundSelected: #C1D4DF //as other content place in input message
+chat_inVenueInfoSelectedText: #665D42 //street name in input location selected message
+avatar_subtitleInProfileBlue: #C6D4DC //avatar info text in contact box
+chats_message: #8096A5 //dialogs last mgs preview
+chat_emojiPanelMasksIconSelected: #FAF4B2 //like recent icon in choose mask menu
+chat_outLocationBackground: #FAF4B2 //loading location square in sent msg
+chat_inAudioSeekbarFill: #14304C //input msg audio waveform played
+chat_outSentCheckReadSelected: #665D42 //out selected message double tick icon
+chat_goDownButtonCounterBackground: #0F4A6F //go down unread number circle
+windowBackgroundWhiteBlueText: #4B5E69 //like online status in users list of channel box
+switch2Track: #665D42 //switch with x mark (off)
+chat_attachLocationIcon: #FAF4B2 //send location icon in attach menu
+chat_outReplyMediaMessageSelectedText: #887F63 //output msg answer media
+chat_outMenuSelected: #AA9B6D //output msg menu selected
+windowBackgroundWhiteGreenText: #0F4A6F //some accent positive text
+dialogBackgroundGray: #C6D4DC //neutral background
+avatar_nameInMessageCyan: #37799C //cyan msg
+undo_cancelColor: #FAF4B2 //undo text and back arrow
+chat_inTimeSelectedText: #718796 //inbox selected message time text
+chat_outMediaIconSelected: #F9E7AF //output selected msg media icon
+chat_botSwitchToInlineText: #14304C //inline bot caption
+wallpaper: t.me/bg/_XBz_c_GZVEBAAAAkhGOO8WYD0Y
