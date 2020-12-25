@@ -10,8 +10,8 @@ In my attempt to convince my family and friends to try Telegram, I decided to cr
 
 |   |   |   |   |
 |---|---|---|---|
-| ![#005E55](https://via.placeholder.com/15/005E55/000000?text=+) | 005E55 | ![#000000](https://via.placeholder.com/15/000000/000000?text=+) | 000000 |
-| ![#128C7E](https://via.placeholder.com/15/128C7E/000000?text=+) | 128C7E | ![#ED3939](https://via.placeholder.com/15/ED3939/000000?text=+) | ED3939 |
+| ![#075E55](https://via.placeholder.com/15/075E55/000000?text=+) | 075E55 | ![#111111](https://via.placeholder.com/15/111111/000000?text=+) | 111111 |
+| ![#018A7A](https://via.placeholder.com/15/018A7A/000000?text=+) | 018A7A | ![#ED3939](https://via.placeholder.com/15/ED3939/000000?text=+) | ED3939 |
 | ![#06D755](https://via.placeholder.com/15/06D755/000000?text=+) | 06D755 | ![#30B6F6](https://via.placeholder.com/15/30B6F6/000000?text=+) | 30B6F6 |
 | ![#88967D](https://via.placeholder.com/15/88967D/000000?text=+) | 88967D | ![#999999](https://via.placeholder.com/15/999999/000000?text=+) | 999999 |
 | ![#A7BC96](https://via.placeholder.com/15/A7BC96/000000?text=+) | A7BC96 | ![#BABABA](https://via.placeholder.com/15/BABABA/000000?text=+) | BABABA |
