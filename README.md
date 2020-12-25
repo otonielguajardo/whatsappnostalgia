@@ -213,7 +213,7 @@ In my attempt to convince my family and friends to try Telegram, I decided to cr
 | chat_mediaLoaderPhotoIcon | loader photo icon |
 | chat_mediaLoaderPhotoIconSelected | media loader photo icon selected |
 | chat_mediaLoaderPhotoSelected | gif loader circle photo pressed |
-| chat_mediaMenu | 0F4A6F //3-dots (...) media menu |
+| chat_mediaMenu | 3-dots (...) media menu |
 | chat_mediaProgress | media progress |
 | chat_mediaSentCheck | send-read tick(s) |
 | chat_mediaSentClock | media sent time |
@@ -396,7 +396,7 @@ In my attempt to convince my family and friends to try Telegram, I decided to cr
 | chats_pinnedIcon | dialog pin icon |
 | chats_pinnedOverlay | fixed dialog background |
 | chats_secretIcon | dialog lock (secret chat) icon |
-| chats_secretName | D8971F //secret dialog name |
+| chats_secretName | secret dialog name |
 | chats_sentCheck | dialogs sent read 1 tick |
 | chats_sentClock | dialogs not sent clock |
 | chats_sentError | dialogs sent error background |
