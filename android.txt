@@ -260,10 +260,10 @@ chat_outLoaderPhoto: #78A3BF
 chat_outLoaderPhotoIcon: #CCEDFF
 chat_outLoaderPhotoIconSelected: #A6D9F6
 chat_outLoaderPhotoSelected: #6AA3C9
-chat_outLoaderSelected: #075E55
+chat_outLoaderSelected: #A7BC96
 chat_outLocationBackground: #A6D9F6
 chat_outLocationIcon: #72B8E5
-chat_outMediaIcon: #A7B696
+chat_outMediaIcon: #88967D
 chat_outMediaIconSelected: #E1F8CF
 chat_outMenu: #8CC9EA
 chat_outMenuSelected: #72B8E5
