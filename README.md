@@ -1,6 +1,18 @@
 # telegram-whatsappnostalgia
  Whatsapp Telegram Theme
 
+ ## Theme Colors
+
+|   |   |   |   |
+|---|---|---|---|
+| ![#005E55](https://via.placeholder.com/15/005E55/000000?text=+) | 005E55 | 
+| ![#128C7E](https://via.placeholder.com/15/128C7E/000000?text=+) | 128C7E | 
+| ![#06D755](https://via.placeholder.com/15/06D755/000000?text=+) | 06D755 | ![#30B6F6](https://via.placeholder.com/15/30B6F6/000000?text=+) | 30B6F6 |
+| ![#88967D](https://via.placeholder.com/15/88967D/000000?text=+) | 88967D | ![#999999](https://via.placeholder.com/15/999999/000000?text=+) | 999999 |
+| ![#A7BC96](https://via.placeholder.com/15/A7BC96/000000?text=+) | A7BC96 | ![#B2B2B2](https://via.placeholder.com/15/B2B2B2/000000?text=+) | B2B2B2 |
+| ![#DCF8C6](https://via.placeholder.com/15/DCF8C6/000000?text=+) | DCF8C6 | ![#E6E6E6](https://via.placeholder.com/15/E6E6E6/000000?text=+) | E6E6E6 |
+| ![#000000](https://via.placeholder.com/15/000000/000000?text=+) | 000000 | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) | FFFFFF |
+
 ##  Android Variables
 
 | Variable | Description |
