@@ -620,5 +620,3 @@ In my attempt to convince my family and friends to try Telegram, I decided to cr
 | windowBackgroundWhiteRedText5 | like leave channel text |
 | windowBackgroundWhiteRedText6 | attention text |
 | windowBackgroundWhiteValueText | like items count in profile box |
-| windowBackgroundWhiteValueText | like items count in profile box |
-| windowBackgroundWhiteValueText | like items count in profile box |
