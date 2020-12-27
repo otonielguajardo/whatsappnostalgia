@@ -1,7 +1,7 @@
 # Whatsapp Theme for Telegram
 In my attempt to convince my family and friends to try Telegram, I decided to create a theme that would make them feel familiar.
 
-**[[APPLY THEME](https://t.me/addtheme/whatsappnostalgia)]**
+**[ [APPLY THEME](https://t.me/addtheme/whatsappnostalgia) ]**
 
 ## Available Devices
 | IOS | ANDROID | TDESKTOP | MACOS |
