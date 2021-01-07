@@ -19,7 +19,7 @@ actionBarDefaultSelector: #075E55
 actionBarDefaultSubmenuBackground: #FFFFFF
 actionBarDefaultSubmenuItem: #222222
 actionBarDefaultSubmenuItemIcon: #999999
-actionBarDefaultSubtitle: #BABABA
+actionBarDefaultSubtitle: #FFFFFF80
 actionBarDefaultTitle: #FFFFFF
 actionBarTabActiveText: #FFFFFF
 actionBarTabLine: #FFFFFF
@@ -51,7 +51,7 @@ avatar_nameInMessageOrange: #D87B29
 avatar_nameInMessagePink: #30B6F6
 avatar_nameInMessageRed: #ED3939
 avatar_nameInMessageViolet: #30B6F6
-avatar_subtitleInProfileBlue: #BABABA
+avatar_subtitleInProfileBlue: #FFFFFF
 avatar_text: #FFFFFF
 calls_callReceivedGreenIcon: #06D755
 calls_callReceivedRedIcon: #ED3939
@@ -325,7 +325,7 @@ chat_serviceLink: #FFFFFF
 chat_serviceText: #FFFFFF
 chat_shareBackground: #728FA666
 chat_shareBackgroundSelected: #728FA699
-chat_status: #BABABA
+chat_status: #FFFFFF
 chat_stickerNameText: #FFFFFF
 chat_stickerReplyLine: #FFFFFF
 chat_stickerReplyMessageText: #FFFFFF
