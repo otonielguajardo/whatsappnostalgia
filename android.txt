@@ -222,7 +222,7 @@ chat_messagePanelVoicePressed: #FFFFFF
 chat_messagePanelVoiceShadow: #1111110D
 chat_messageTextIn: #111111
 chat_messageTextOut: #111111
-chat_muteIcon: #00BFAD
+chat_muteIcon: #FFFFFF80
 chat_outAudioCacheSeekbar: #BBE3AC3F
 chat_outAudioDurationSelectedText: #075E55
 chat_outAudioDurationText: #018A7A
@@ -389,8 +389,8 @@ chats_sentError: #D55252
 chats_sentErrorIcon: #FFFFFF
 chats_sentReadCheck: #30B6F6
 chats_tabletSelectedOverlay: #1111110F
-chats_unreadCounter: #BABABA
-chats_unreadCounterMuted: #C6C9CC
+chats_unreadCounter: #06D755
+chats_unreadCounterMuted: #BABABA
 chats_unreadCounterText: #FFFFFF
 chats_verifiedBackground: #40CF6F
 chats_verifiedCheck: #FFFFFF
