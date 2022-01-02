@@ -19,9 +19,9 @@ slideFadeOutBg: #0000003C
 slideFadeOutShadowFg: windowShadowFg
 imageBg: #000000
 imageBgTransparent: #FFFFFF
-activeButtonBg: windowBgActive
-activeButtonBgOver: #39A5DB
-activeButtonBgRipple: #2095D0
+activeButtonBg: #018A7A
+activeButtonBgOver: #018A7A
+activeButtonBgRipple: #FFFFFF0A
 activeButtonFg: windowFgActive
 activeButtonFgOver: activeButtonFg
 activeButtonSecondaryFg: #CCEEFF
@@ -44,8 +44,8 @@ outlineButtonBgRipple: lightButtonBgRipple
 menuBg: windowBg
 menuBgOver: windowBgOver
 menuBgRipple: windowBgRipple
-menuIconFg: #A8A8A8
-menuIconFgOver: #999999
+menuIconFg: #696969
+menuIconFgOver: #696969
 menuSubmenuArrowFg: #373737
 menuFgDisabled: #CCCCCC
 menuSeparatorFg: #F1F1F1
@@ -60,7 +60,7 @@ radialBg: #00000056
 placeholderFg: windowSubTextFg
 placeholderFgActive: #AAAAAA
 inputBorderFg: #E0E0E0
-filterInputBorderFg: #54C3F3
+filterInputBorderFg: #FFFFFF
 checkboxFg: #B3B3B3
 sliderBgInactive: #E1EAEF
 sliderBgActive: windowBgActive
@@ -89,7 +89,7 @@ boxTextFg: windowFg
 boxTextFgGood: #4AB44A
 boxTextFgError: #D84D4D
 boxTitleFg: #404040
-boxSearchBg: boxBg
+boxSearchBg: #FFFFFF
 boxSearchCancelIconFg: cancelIconFg
 boxSearchCancelIconFgOver: cancelIconFgOver
 boxTitleAdditionalFg: #808080
@@ -122,22 +122,22 @@ dialogsNameFg: windowBoldFg
 dialogsChatIconFg: dialogsNameFg
 dialogsDateFg: windowSubTextFg
 dialogsTextFg: windowSubTextFg
-dialogsTextFgService: windowActiveTextFg
-dialogsDraftFg: #DD4B39
-dialogsVerifiedIconBg: windowBgActive
+dialogsTextFgService: #696969
+dialogsDraftFg: #ED3939
+dialogsVerifiedIconBg: #06D755
 dialogsVerifiedIconFg: windowFgActive
 dialogsSendingIconFg: #C1C1C1
 dialogsSentIconFg: #2CA6E8
-dialogsUnreadBg: windowBgActive
-dialogsUnreadBgMuted: #BBBBBB
+dialogsUnreadBg: #06D755
+dialogsUnreadBgMuted: #BABABA
 dialogsUnreadFg: windowFgActive
 dialogsArchiveFg: #525252
-dialogsOnlineBadgeFg: #4DC920
-dialogsBgOver: windowBgOver
+dialogsOnlineBadgeFg: #06D755
+dialogsBgOver: #DEE5E7
 dialogsNameFgOver: windowBoldFgOver
 dialogsChatIconFgOver: dialogsNameFgOver
-dialogsDateFgOver: windowSubTextFgOver
-dialogsTextFgOver: windowSubTextFgOver
+dialogsDateFgOver: #696969
+dialogsTextFgOver: #696969
 dialogsTextFgServiceOver: dialogsTextFgService
 dialogsDraftFgOver: dialogsDraftFg
 dialogsVerifiedIconBgOver: dialogsVerifiedIconBg
@@ -148,14 +148,14 @@ dialogsUnreadBgOver: dialogsUnreadBg
 dialogsUnreadBgMutedOver: dialogsUnreadBgMuted
 dialogsUnreadFgOver: dialogsUnreadFg
 dialogsArchiveFgOver: #525252
-dialogsBgActive: #419FD9
-dialogsNameFgActive: windowFgActive
+dialogsBgActive: #DEE5E7
+dialogsNameFgActive: #696969
 dialogsChatIconFgActive: dialogsNameFgActive
-dialogsDateFgActive: windowFgActive
-dialogsTextFgActive: windowFgActive
+dialogsDateFgActive: #999999
+dialogsTextFgActive: #696969
 dialogsTextFgServiceActive: dialogsTextFgActive
 dialogsDraftFgActive: #C6E1F7
-dialogsVerifiedIconBgActive: dialogsTextFgActive
+dialogsVerifiedIconBgActive: #999999
 dialogsVerifiedIconFgActive: dialogsBgActive
 dialogsSendingIconFgActive: #FFFFFF99
 dialogsSentIconFgActive: dialogsTextFgActive
@@ -168,7 +168,7 @@ dialogsForwardFg: dialogsNameFgActive
 searchedBarBg: windowBgOver
 searchedBarBorder: shadowFg
 searchedBarFg: windowSubTextFgOver
-topBarBg: windowBg
+topBarBg: #DEE5E7
 emojiPanBg: windowBg
 emojiPanCategories: #F7F7F7 // windowBg;
 emojiPanHeaderFg: windowSubTextFg
@@ -236,8 +236,8 @@ msgInDateFgSelected: #6A9CC5
 msgOutDateFg: #86A8C2
 msgOutDateFgSelected: #6CA0C2
 msgServiceFg: windowFgActive
-msgServiceBg: #00518059
-msgServiceBgSelected: #62AFDDA2
+msgServiceBg: #36414A59
+msgServiceBgSelected: #91A1AEA2
 msgInReplyBarColor: activeLineFg
 msgInReplyBarSelColor: activeLineFg
 msgOutReplyBarColor: historyOutIconFg
@@ -304,7 +304,7 @@ historyComposeAreaFg: historyTextInFg
 historyComposeAreaFgService: msgInDateFg
 historyComposeIconFg: menuIconFg
 historyComposeIconFgOver: menuIconFgOver
-historySendIconFg: windowBgActive
+historySendIconFg: #018A7A
 historySendIconFgOver: windowBgActive
 historyPinnedBg: historyComposeAreaBg
 historyReplyBg: historyComposeAreaBg
@@ -325,7 +325,7 @@ notificationSampleCloseFg: #D7D7D7 // windowSubTextFg;
 notificationSampleTextFg: #D7D7D7 // windowSubTextFg;
 notificationSampleNameFg: #939393 // windowSubTextFg;
 mainMenuBg: windowBg
-mainMenuCoverBg: dialogsBgActive
+mainMenuCoverBg: #018A7A
 mainMenuCoverFg: windowFgActive
 mediaPlayerBg: windowBg
 mediaPlayerActiveFg: windowBgActive
@@ -362,3 +362,17 @@ mediaviewPlaybackIconFgOver: mediaviewPlaybackActiveOver
 mediaviewTransparentBg: #FFFFFF
 mediaviewTransparentFg: #CCCCCC
 notificationBg: windowBg
+sideBarBg: #075E55
+sideBarBgActive: #075E55
+sideBarBgRipple: #0000000A
+sideBarTextFg: #FFFFFF7B
+sideBarBadgeBgMuted: #FFFFFF86
+sideBarIconFg: #FFFFFF75
+sideBarTextFgActive: #FFFFFF
+sideBarIconFgActive: #FFFFFF
+sideBarBadgeBg: #FFFFFF81
+filterInputInactiveBg: #DEE5E7
+dialogsScamFg: dialogsDraftFg
+dialogsScamFgOver: dialogsDraftFgOver
+sideBarBadgeFg: #075E55
+wallpaper: t.me/bg/yXs8BLytlFIBAAAAHjtDkkWOrKQ?mode=tiled // link to cloud wallpaper
