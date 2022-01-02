@@ -3,7 +3,9 @@ In my attempt to convince my family and friends to try Telegram, I decided to cr
 
 **[ [APPLY THEME](https://t.me/addtheme/whatsappnostalgia) ]**
 
-![Android theme preview](/android-thumbnail.png "Android theme")
+|   |   |
+|---|---|
+| ![Android theme preview](/screenshot-android.png "Android theme") | ![TDesktop theme preview](/screenshot-tdesktop.png "TDesktop theme") |
 
 ## Available Devices
 | IOS | ANDROID | TDESKTOP | MACOS |
