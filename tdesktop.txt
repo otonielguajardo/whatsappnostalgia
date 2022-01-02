@@ -133,7 +133,7 @@ dialogsUnreadBgMuted: #BABABA
 dialogsUnreadFg: windowFgActive
 dialogsArchiveFg: #525252
 dialogsOnlineBadgeFg: #06D755
-dialogsBgOver: #DEE5E7
+dialogsBgOver: #EDEDED
 dialogsNameFgOver: windowBoldFgOver
 dialogsChatIconFgOver: dialogsNameFgOver
 dialogsDateFgOver: #696969
@@ -148,7 +148,7 @@ dialogsUnreadBgOver: dialogsUnreadBg
 dialogsUnreadBgMutedOver: dialogsUnreadBgMuted
 dialogsUnreadFgOver: dialogsUnreadFg
 dialogsArchiveFgOver: #525252
-dialogsBgActive: #DEE5E7
+dialogsBgActive: #EDEDED
 dialogsNameFgActive: #696969
 dialogsChatIconFgActive: dialogsNameFgActive
 dialogsDateFgActive: #999999
@@ -168,7 +168,7 @@ dialogsForwardFg: dialogsNameFgActive
 searchedBarBg: windowBgOver
 searchedBarBorder: shadowFg
 searchedBarFg: windowSubTextFgOver
-topBarBg: #DEE5E7
+topBarBg: #EDEDED
 emojiPanBg: windowBg
 emojiPanCategories: #F7F7F7 // windowBg;
 emojiPanHeaderFg: windowSubTextFg
@@ -371,7 +371,7 @@ sideBarIconFg: #FFFFFF75
 sideBarTextFgActive: #FFFFFF
 sideBarIconFgActive: #FFFFFF
 sideBarBadgeBg: #FFFFFF81
-filterInputInactiveBg: #DEE5E7
+filterInputInactiveBg: #EDEDED
 dialogsScamFg: dialogsDraftFg
 dialogsScamFgOver: dialogsDraftFgOver
 sideBarBadgeFg: #075E55

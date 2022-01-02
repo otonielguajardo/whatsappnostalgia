@@ -8,7 +8,7 @@ In my attempt to convince my family and friends to try Telegram, I decided to cr
 ## Available Devices
 | IOS | ANDROID | TDESKTOP | MACOS |
 |-----|---------|----------|-------|
-| ❌  | ✅      | ❌       | ❌    |
+| ❌  | ✅      | ✅       | ❌    |
 
  ## Theme Colors
 
