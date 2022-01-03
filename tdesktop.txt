@@ -197,21 +197,21 @@ historyUnreadBarFg: #538BB4
 historyForwardChooseBg: #0000004C
 historyForwardChooseFg: windowFgActive
 historyPeer1NameFg: #C03D33
-historyPeer1UserpicBg: #E17076
+historyPeer1UserpicBg: #BABABA
 historyPeer2NameFg: #4FAD2D
-historyPeer2UserpicBg: #7BC862
+historyPeer2UserpicBg: #BABABA
 historyPeer3NameFg: #D09306
-historyPeer3UserpicBg: #E5CA77
+historyPeer3UserpicBg: #BABABA
 historyPeer4NameFg: windowActiveTextFg
-historyPeer4UserpicBg: #65AADD
+historyPeer4UserpicBg: #BABABA
 historyPeer5NameFg: #8544D6
-historyPeer5UserpicBg: #A695E7
+historyPeer5UserpicBg: #BABABA
 historyPeer6NameFg: #CD4073
-historyPeer6UserpicBg: #EE7AAE
+historyPeer6UserpicBg: #BABABA
 historyPeer7NameFg: #2996AD
-historyPeer7UserpicBg: #6EC9CB
+historyPeer7UserpicBg: #BABABA
 historyPeer8NameFg: #CE671B
-historyPeer8UserpicBg: #FAA774
+historyPeer8UserpicBg: #BABABA
 historyPeerUserpicFg: windowFgActive
 historyScrollBarBg: #00000040
 historyScrollBarBgOver: #00000053
@@ -375,4 +375,6 @@ filterInputInactiveBg: #EDEDED
 dialogsScamFg: dialogsDraftFg
 dialogsScamFgOver: dialogsDraftFgOver
 sideBarBadgeFg: #075E55
-wallpaper: t.me/bg/yXs8BLytlFIBAAAAHjtDkkWOrKQ?mode=tiled // link to cloud wallpaper
+historyPeerArchiveUserpicBg: dialogsUnreadBgMuted
+historyPeerSavedMessagesBg: historyPeer4UserpicBg
+wallpaper: t.me/bg/oED-oMFsnVIBAAAAsEejtxCM0Fg?mode=tiled // link to cloud wallpaper
